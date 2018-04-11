@@ -1,0 +1,2 @@
+Key 			=	F20B319724A5C81D
+Initialization Vector 	= 	42767D9B9D683107
