@@ -1,2 +1,2 @@
 # Cryptography
-Analysis for different cryptography ciphers for Cryptography homework.
+Exploring different cryptography schemes.
